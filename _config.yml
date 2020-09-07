@@ -119,3 +119,12 @@ markdown_it_plus:
       enable: true
       options:
         strict: false
+
+# Extensions
+plugins:
+    hexo-generator-feed
+#Feed Atom
+feed:
+    type: atom
+    path: atom.xml
+    limit: 20

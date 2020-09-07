@@ -40,7 +40,7 @@ copy:
 social:
   fab fa-github: https://github.com/JarvisCao || Github
   fas fa-envelope: mailto:caocongcong1116@gmail.com || Email
-  fas fa-rss: https://github.com/JarvisCao || Rss
+  fas fa-rss: https://github.com/blog/atom.xml || Rss
 
 # search (搜索)
 # --------------------------------------
