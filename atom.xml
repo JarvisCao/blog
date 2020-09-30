@@ -3,11 +3,11 @@
   <title>半个卤蛋</title>
   
   
-  <link href="https://jarviscao.github.io/blog/atom.xml" rel="self"/>
+  <link href="https://hittub.com/blog/atom.xml" rel="self"/>
   
-  <link href="https://jarviscao.github.io/blog/"/>
+  <link href="https://hittub.com/blog/"/>
   <updated>2020-08-30T07:12:00.322Z</updated>
-  <id>https://jarviscao.github.io/blog/</id>
+  <id>https://hittub.com/blog/</id>
   
   <author>
     <name>Ryan</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://jarviscao.github.io/blog/2020/08/30/hello-world/"/>
-    <id>https://jarviscao.github.io/blog/2020/08/30/hello-world/</id>
+    <link href="https://hittub.com/blog/2020/08/30/hello-world/"/>
+    <id>https://hittub.com/blog/2020/08/30/hello-world/</id>
     <published>2020-08-30T05:46:23.896Z</published>
     <updated>2020-08-30T07:12:00.322Z</updated>
     
